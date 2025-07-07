@@ -47,8 +47,8 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinav-guntipally-823585201/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:abhinavguntipally@gmail.com)
 
 ---
 
